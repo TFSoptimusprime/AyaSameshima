@@ -1,0 +1,21 @@
+/* ================================ */
+/* StyleSheet for All About Samples */
+/* ================================ */
+
+/* ”Ä—p */
+p#returnfunc { text-align:center; margin: 1.5em 0.5em 0.5em 0.5em; }
+div.setbottom { position:absolute; bottom:0%; }
+h1 { font-size: 140%; }
+h2 { border-left: #cc0000 0.4em solid; padding: 0.1em 0.3em; font-size: 120%; }
+
+/* -------------- */
+/* All About ‹¤’Ê */
+/* -------------- */
+pre.pro-source{
+	background-color : #eeeeee;
+	padding: 4px 4px 4px 20px;
+	margin: 1em 0px;
+	line-height: 1.4em;
+	overflow: auto;
+}
+
